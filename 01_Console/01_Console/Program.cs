@@ -287,7 +287,7 @@ namespace _01_Console
             //Console.Write("나이를 입력해주세요 :");
             //string ageString = Console.ReadLine();
             //age = int.Parse(ageString);
-            //int category = 0;        // 매직넘버 : 안쓰는게 좋다. 굉장히 안 좋음
+            //int category = 0;        // 매직넘버 : 안쓰는게 좋다. 굉장히 안 좋음. 나중에 코드를 다시 봤을 때 헷갈림
             //AgeCategory ageCategory;
 
             //Console.WriteLine();
